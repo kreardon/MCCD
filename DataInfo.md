@@ -8,6 +8,8 @@ Start Date: *1994-01-02Z17:53:42*
 End Date: *2007-03-01Z21:48:41*  
 Total Number: 2068  
 Image Size: [384,576]  
+Requires: *none*  
+Provides: *full-chip, unbinned dark*  
 
 ### **Scan Darks**
 #### dark frames, binned pixels
@@ -35,5 +37,8 @@ Image Sizes: [96, 50, 90-100]
 drscStart Date: *1994-01-02Z17:53:03*  
 End Date: *2007-03-01Z21:47:59*  
 Total Number: 2149  
-Image Sizes: [376,584], [96,50-60]
+Image Sizes: [376,584], [96,50-60]  
+Requires: *full-chip, unbinned dark*  
+Provides: *full solar spectrum, dispersion, slit orientation, crosshair position*  
+
 
